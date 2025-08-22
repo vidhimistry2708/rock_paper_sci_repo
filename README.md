@@ -14,6 +14,7 @@ This project is beginner-friendly and demonstrates the use of **basic Python con
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
+1. Clone this repository
+2. Run the file using:
    ```bash
-   git clone https://github.com/vidhimistry2708/rock-paper-scissors.git
+      python Stone_Paper.py
